@@ -6,7 +6,7 @@
 </div>
 
 <div>
-  <p>Olá, meu nome é Fellipe Batista e sou estudante de Engenharia de Software na UMJ, por enquanto meu maior interesse em área de atuação vem sendo backend em java e mysql no banco de dados, com o objetivo de aprender cada vez mais nessas áreas e manter a afinidade e o básico com as outras tecnologias e linguagens registradas no perfil por enquanto ainda não defino a área de atuação</p>
+  <p>Olá, meu nome é Fellipe Batista e sou estudante de Engenharia de Software na UMJ, por enquanto meu maior interesse em área de atuação vem sendo backend em Java e Mysql no banco de dados, com o objetivo de aprender cada vez mais nessas áreas e manter a afinidade e o básico com as outras tecnologias e linguagens registradas no perfil por enquanto ainda não defino a área de atuação</p>
 </div>
 
 <div style="display: inline_block"><br>
