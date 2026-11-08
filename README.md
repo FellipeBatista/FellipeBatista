@@ -20,3 +20,8 @@
   <img align="center" alt="Fellipe-C" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
 </div>
+
+### 📊 Estatísticas
+<div>
+<img align="left" height="200" style= "padding-rigth: 10px;" src="https://github-stats-extended.vercel.app/api?username=FellipeBatista&theme=dark_github"">
+</div>
